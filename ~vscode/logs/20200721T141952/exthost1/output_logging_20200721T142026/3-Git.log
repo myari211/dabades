@@ -1,0 +1,113 @@
+Looking for git in: git
+Using git 2.23.0 from git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /hmif/blog
+> git status -z -u
+> git show :app/Http/Controllers/kandidat_showController.php
+> git ls-files --stage -- /hmif/blog/app/Http/Controllers/kandidat_showController.php
+> git cat-file -s 18e5d166039858b3821a4d82e206dd4ea0f25578
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :app/Http/Controllers/HomeController.php
+> git ls-files --stage -- /hmif/blog/app/Http/Controllers/HomeController.php
+> git cat-file -s 7cbc2c3f0cbc4fd1d2b2734a0301b416f54f479e
+> git show :app/Http/Controllers/kandidat_showController.php
+> git ls-files --stage -- /hmif/blog/app/Http/Controllers/kandidat_showController.php
+> git cat-file -s 18e5d166039858b3821a4d82e206dd4ea0f25578
+> git show :app/Http/Controllers/HomeController.php
+> git ls-files --stage -- /hmif/blog/app/Http/Controllers/HomeController.php
+> git cat-file -s 7cbc2c3f0cbc4fd1d2b2734a0301b416f54f479e
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :resources/views/auth/login.blade.php
+> git ls-files --stage -- /hmif/blog/resources/views/auth/login.blade.php
+> git cat-file -s 667a333a329305ce3168cd8e542358da4249e075
+> git show :resources/views/home.blade.php
+> git ls-files --stage -- /hmif/blog/resources/views/home.blade.php
+> git cat-file -s f4c66feb6965340a7066a584cdaaa403b071e302
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :resources/views/layouts/app.blade.php
+> git ls-files --stage -- /hmif/blog/resources/views/layouts/app.blade.php
+> git cat-file -s 0d5c08aefd061183efbbe7c098b187b74c91fc6b
+> git show :app/Http/Controllers/Controller.php
+> git ls-files --stage -- /hmif/blog/app/Http/Controllers/Controller.php
+> git cat-file -s a0a2a8a34a6221e4dceb24a759ed14e911f74c57
+> git show :app/Http/Controllers/apiController.php
+> git ls-files --stage -- /hmif/blog/app/Http/Controllers/apiController.php
+> git cat-file -s 9e7e2ae8816912d620c469103105db931007679e
+> git show :app/Http/Controllers/kandidat_showController.php
+> git ls-files --stage -- /hmif/blog/app/Http/Controllers/kandidat_showController.php
+> git cat-file -s 18e5d166039858b3821a4d82e206dd4ea0f25578
+> git show :app/Http/Controllers/KandidatController.php
+> git ls-files --stage -- /hmif/blog/app/Http/Controllers/KandidatController.php
+> git cat-file -s 5e6b6eafe6f3e3bf69c074c0e8155f1a5444b053
+> git check-ignore -v -z --stdin
+> git show :app/Http/Controllers/Auth/RegisterController.php
+> git ls-files --stage -- /hmif/blog/app/Http/Controllers/Auth/RegisterController.php
+> git cat-file -s d7a7971dc0adf00152f88467857284929184b34c
+> git show :app/Http/Controllers/Auth/LoginController.php
+> git ls-files --stage -- /hmif/blog/app/Http/Controllers/Auth/LoginController.php
+> git cat-file -s 18a0d088ae8c17960926578f539876764cfea417
+> git show :resources/views/auth/login.blade.php
+> git ls-files --stage -- /hmif/blog/resources/views/auth/login.blade.php
+> git cat-file -s 667a333a329305ce3168cd8e542358da4249e075
+> git check-ignore -v -z --stdin
+> git show :resources/views/layouts/app.blade.php
+> git ls-files --stage -- /hmif/blog/resources/views/layouts/app.blade.php
+> git cat-file -s 0d5c08aefd061183efbbe7c098b187b74c91fc6b
